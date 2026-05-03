@@ -1,9 +1,8 @@
 ﻿---
 layout: post
-title: "Easy2Patch Catalog Update – Week of 2025-10-04"
+title: "04 October 2025 Catalog Update - Easy2Patch"
 date: 2025-10-04
 categories: [blog]
-source_url: "https://blog.easy2patch.com/catalog-posts-2025/easy2patch-catalog-update-week-of-2025-10-04"
 ---
 
 Our new catalog version **#20251004 (3.4.425)** is now available to all Easy2Patch customers.
@@ -61,5 +60,5 @@ WinZipWinzip 29.0.0
 
 WorkdayOffice Connect 2025.209.1214
 
-[PreviousOctober 4 Catalog Update #20251004 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2025/october-4-catalog-update-20251004-easy2patch)[NextSeptember 27 Catalog Update #20250927 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2025/september-27-catalog-update-20250927-easy2patch)
+[PreviousOctober 4 Catalog Update #20251004 - Easy2Patch](/catalog-posts-2025/october-4-catalog-update-20251004-easy2patch)[NextSeptember 27 Catalog Update #20250927 - Easy2Patch](/catalog-posts-2025/september-27-catalog-update-20250927-easy2patch)
 Last updated <time data-visual-test="transparent" datetime="2025-09-30T19:28:18.770Z" data-state="closed">7 months ago</time>

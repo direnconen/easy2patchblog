@@ -1,9 +1,8 @@
-﻿---
+---
 layout: post
 title: "Security Ratings"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/article-page/weekly-statistics-for-2025/security-ratings"
 ---
 
 Knowledgebase ID
@@ -78,5 +77,5 @@ Rating Count
 
 2025/12/14Moderate4
 
-[PreviousWeekly Statistics for 2025<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/article-page/weekly-statistics-for-2025)[NextMay 2 Catalog Update #20260502 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2026/may-2-catalog-update-20260502-easy2patch)
+[PreviousWeekly Statistics for 2025](/article-page/weekly-statistics-for-2025)[NextMay 2 Catalog Update #20260502 - Easy2Patch](/catalog-posts-2026/may-2-catalog-update-20260502-easy2patch)
 Last updated <time data-visual-test="transparent" datetime="2025-12-13T12:42:41.442Z" data-state="closed">4 months ago</time>

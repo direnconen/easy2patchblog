@@ -1,9 +1,8 @@
-﻿---
+---
 layout: post
 title: "Easy2Patch 1.x End Of Life"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/articles/easy2patch-1.x-end-of-life"
 ---
 
 Easy2Patch 1.0 End of Life
@@ -21,5 +20,5 @@ You can use the current version, Easy2Patch 3.1.3. You can get Easy2Patch 3.1.3 
 7. Automatic application submission,
 8. Automatically close applications that conflict during the update,
 
-[PreviousScan Microsoft ConfigMgr for Supported Third-Party Products for Patching (Update statistics)<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/articles/scan-microsoft-configmgr-for-supported-third-party-products-for-patching-update-statistics)[NextSchema files not found!<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/articles/schema-files-not-found)
+[PreviousScan Microsoft ConfigMgr for Supported Third-Party Products for Patching (Update statistics)](/articles/scan-microsoft-configmgr-for-supported-third-party-products-for-patching-update-statistics)[NextSchema files not found!](/articles/schema-files-not-found)
 Last updated <time data-visual-test="transparent" datetime="2023-12-17T20:21:20.094Z" data-state="closed">2 years ago</time>

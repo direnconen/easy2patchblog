@@ -1,9 +1,8 @@
 ﻿---
 layout: post
-title: "November 9 Catalog Update #20241109"
-date: 2026-05-03
+title: "09 November 2024 Catalog Update - Easy2Patch"
+date: 2024-11-09
 categories: [blog]
-source_url: "https://blog.easy2patch.com/catalog-posts-2024/november-9-catalog-update-20241109-easy2patch"
 ---
 
 Our catalog with **#20241109** (Catalog version **3.4.274** ) is available to our **Easy2Patch** customers.
@@ -83,804 +82,554 @@ SoftLanddoPDF 11.9.481
 SymlessDeskflow 1.17.0
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_11d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_11d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 8X8 Work 8.17.4 (x64) (MSI)
 
-> 
-> **More Info:** [https://support.8x8.com/business-phone/voice/work-desktop/download-8x8-work-for-desktop<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h1l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h1l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.8x8.com/business-phone/voice/work-desktop/download-8x8-work-for-desktop)
-> 
-> **Support Info:** [https://support.8x8.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i1l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i1l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.8x8.com/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j1l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j1l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/824fc58e21f86cd56274d945d0bbdb058e2a558264bb6c36ca400526b42a1c17)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k1l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k1l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/824fc58e21f86cd56274d945d0bbdb058e2a558264bb6c36ca400526b42a1c17)
-> 
+> **More Info:** [https://support.8x8.com/business-phone/voice/work-desktop/download-8x8-work-for-desktop](https://support.8x8.com/business-phone/voice/work-desktop/download-8x8-work-for-desktop)
+> **Support Info:** [https://support.8x8.com/](https://support.8x8.com/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/824fc58e21f86cd56274d945d0bbdb058e2a558264bb6c36ca400526b42a1c17)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/824fc58e21f86cd56274d945d0bbdb058e2a558264bb6c36ca400526b42a1c17)
 > What's new in this release? Version 8.17 published on 10/08/24. The key features in 8x8 Work for Desktop v8.17 are: Voice, Messaging, and Core 8x8 Engage Account Workspace - Salesforce deep integration (Beta) You can seamlessly import Salesforce Contacts and select Salesforce List Views on Accounts that are important in your workflow. Interactions with the engaged contacts are automatically logged in Salesforce.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_11t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_11t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Adobe Acrobat 24.4.20220 (x64) (EXE)
 
-> 
-> **More Info:** [https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h2539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h2539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html)
-> 
-> **Support Info:** [https://helpx.adobe.com/acrobat/using/whats-new.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i2539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i2539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://helpx.adobe.com/acrobat/using/whats-new.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j2539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j2539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f69676b27d07452f40fab3e824c0fd30edcb2b7b9d5af0e1dee5055e55c6c7b6)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k2539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k2539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f69676b27d07452f40fab3e824c0fd30edcb2b7b9d5af0e1dee5055e55c6c7b6)
-> 
+> **More Info:** [https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html)
+> **Support Info:** [https://helpx.adobe.com/acrobat/using/whats-new.html](https://helpx.adobe.com/acrobat/using/whats-new.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f69676b27d07452f40fab3e824c0fd30edcb2b7b9d5af0e1dee5055e55c6c7b6)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f69676b27d07452f40fab3e824c0fd30edcb2b7b9d5af0e1dee5055e55c6c7b6)
 > 24.004.202xx Planned update, Oct 28, 2024 This release is a planned update for the products listed in the table below. The latest version is always available through the product’s update mechanism, and for some languages, from the Reader Download Center. Track details The Acrobat product family introduces two tracks for both Acrobat and Reader which are essentially different products: “Classic” and “Continuous.” Most end users will install the Continuous track provided from the Reader Download Center. Enterprise organizations will user either the Classic or Continuous track. For details and a comparison of the two tracks, see
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_12d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_12d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Adobe Acrobat 24.4.20220 (x86) (EXE)
 
-> 
-> **More Info:** [https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h2l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h2l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html)
-> 
-> **Support Info:** [https://helpx.adobe.com/acrobat/using/whats-new.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i2l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i2l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://helpx.adobe.com/acrobat/using/whats-new.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j2l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j2l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/1052e78da068501ba0bf8b14123a3afd4fbd3ee916c5287a0f78efcd1e0597fd)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k2l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k2l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/1052e78da068501ba0bf8b14123a3afd4fbd3ee916c5287a0f78efcd1e0597fd)
-> 
+> **More Info:** [https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/continuous/dccontinuousoct2024.html)
+> **Support Info:** [https://helpx.adobe.com/acrobat/using/whats-new.html](https://helpx.adobe.com/acrobat/using/whats-new.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/1052e78da068501ba0bf8b14123a3afd4fbd3ee916c5287a0f78efcd1e0597fd)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/1052e78da068501ba0bf8b14123a3afd4fbd3ee916c5287a0f78efcd1e0597fd)
 > 24.004.202xx Planned update, Oct 28, 2024 This release is a planned update for the products listed in the table below. The latest version is always available through the product’s update mechanism, and for some languages, from the Reader Download Center. Track details The Acrobat product family introduces two tracks for both Acrobat and Reader which are essentially different products: “Classic” and “Continuous.” Most end users will install the Continuous track provided from the Reader Download Center. Enterprise organizations will user either the Classic or Continuous track. For details and a comparison of the two tracks, see
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_12t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_12t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Amazon Command Line Interface v2 2.19.3 (x64) (MSI)
 
-> 
-> **More Info:** [https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h3539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h3539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst)
-> 
-> **Support Info:** [https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/building-rust.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i3539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i3539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/building-rust.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j3539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j3539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/911457647eca969f9f3ec3c42509c48dede6888d65310c0c3a73c9d53717c906)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k3539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k3539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/911457647eca969f9f3ec3c42509c48dede6888d65310c0c3a73c9d53717c906)
-> 
+> **More Info:** [https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst)
+> **Support Info:** [https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/building-rust.html](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/building-rust.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/911457647eca969f9f3ec3c42509c48dede6888d65310c0c3a73c9d53717c906)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/911457647eca969f9f3ec3c42509c48dede6888d65310c0c3a73c9d53717c906)
 > 2.19.3 \* api-change:``bedrock-runtime``: Add Prompt management support to Bedrock runtime APIs: Converse, ConverseStream, InvokeModel, InvokeModelWithStreamingResponse \* api-change:``bedrock-agent``: Add prompt support for chat template configuration and agent generative AI resource. Add support for configuring an optional guardrail in Prompt and Knowledge Base nodes in Prompt Flows. Add API to validate flow definition \* api-change:``cleanrooms``: This release introduces support for Custom Models in AWS Clean Rooms ML.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_13d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_13d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Audacity 3.7.0 (x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/audacity/audacity/releases/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h3l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h3l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/audacity/audacity/releases/)
-> 
-> **Support Info:** [https://support.audacityteam.org/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i3l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i3l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.audacityteam.org/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j3l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j3l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/1034c8189843c4a2f284746369ce0ec1a3667b7b10d88aca2f44b68369c2347f)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k3l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k3l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/1034c8189843c4a2f284746369ce0ec1a3667b7b10d88aca2f44b68369c2347f)
-> 
+> **More Info:** [https://github.com/audacity/audacity/releases/](https://github.com/audacity/audacity/releases/)
+> **Support Info:** [https://support.audacityteam.org/](https://support.audacityteam.org/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/1034c8189843c4a2f284746369ce0ec1a3667b7b10d88aca2f44b68369c2347f)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/1034c8189843c4a2f284746369ce0ec1a3667b7b10d88aca2f44b68369c2347f)
 > Changes in version 3.7.0 The 3.7.x series is primarily maintenance releases while we're working on Audacity 4.0. 3.7.0 fixes the following bugs: #6233, #7397, #6900 Improved Linux compatibility. #6702 Improved contrast in the light theme. #7008 MP3 exports: Renamed "Insane" to "Excessive".
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_13t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_13t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Audacity 3.7.0 (x86) (EXE)
 
-> 
-> **More Info:** [https://github.com/audacity/audacity/releases/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h4539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h4539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/audacity/audacity/releases/)
-> 
-> **Support Info:** [https://support.audacityteam.org/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i4539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i4539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.audacityteam.org/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j4539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j4539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/84c2643dae27a26703e725f97258ba8b8d428478fa10f0df141cf093aa6f2432)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k4539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k4539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/84c2643dae27a26703e725f97258ba8b8d428478fa10f0df141cf093aa6f2432)
-> 
+> **More Info:** [https://github.com/audacity/audacity/releases/](https://github.com/audacity/audacity/releases/)
+> **Support Info:** [https://support.audacityteam.org/](https://support.audacityteam.org/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/84c2643dae27a26703e725f97258ba8b8d428478fa10f0df141cf093aa6f2432)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/84c2643dae27a26703e725f97258ba8b8d428478fa10f0df141cf093aa6f2432)
 > Changes in version 3.7.0 The 3.7.x series is primarily maintenance releases while we're working on Audacity 4.0. 3.7.0 fixes the following bugs: #6233, #7397, #6900 Improved Linux compatibility. #6702 Improved contrast in the light theme. #7008 MP3 exports: Renamed "Insane" to "Excessive".
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_14d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_14d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Balsamiq Wireframes 4.8.0 (x64) (EXE)
 
-> 
-> **More Info:** [https://balsamiq.com/wireframes/desktop/release-notes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h4l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h4l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://balsamiq.com/wireframes/desktop/release-notes/)
-> 
-> **Support Info:** [https://balsamiq.com/support/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i4l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i4l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://balsamiq.com/support/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j4l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j4l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f70968e96a7d141aa45a0eaf0a08d8b0356cab84278b034f6f510ed61d1364ff)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k4l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k4l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f70968e96a7d141aa45a0eaf0a08d8b0356cab84278b034f6f510ed61d1364ff)
-> 
+> **More Info:** [https://balsamiq.com/wireframes/desktop/release-notes/](https://balsamiq.com/wireframes/desktop/release-notes/)
+> **Support Info:** [https://balsamiq.com/support/](https://balsamiq.com/support/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f70968e96a7d141aa45a0eaf0a08d8b0356cab84278b034f6f510ed61d1364ff)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f70968e96a7d141aa45a0eaf0a08d8b0356cab84278b034f6f510ed61d1364ff)
 > 06 November 2024 release We just did a Balsamiq Wireframes release. Here's what's new! Windows and Mac: We fixed a crash when importing new templates. Windows and Mac: We fixed a crash when using the documentation. Windows and Mac: We fixed a potential crash when using the find feature
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_14t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_14t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Balsamiq Wireframes 4.8.0 (x86) (EXE)
 
-> 
-> **More Info:** [https://balsamiq.com/wireframes/desktop/release-notes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h5539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h5539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://balsamiq.com/wireframes/desktop/release-notes/)
-> 
-> **Support Info:** [https://balsamiq.com/support/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i5539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i5539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://balsamiq.com/support/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j5539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j5539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/fc0aff8fb82baa429426d22c62e572f404ae490eaf9b52702b8e2812dd5bdda3)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k5539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k5539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/fc0aff8fb82baa429426d22c62e572f404ae490eaf9b52702b8e2812dd5bdda3)
-> 
+> **More Info:** [https://balsamiq.com/wireframes/desktop/release-notes/](https://balsamiq.com/wireframes/desktop/release-notes/)
+> **Support Info:** [https://balsamiq.com/support/](https://balsamiq.com/support/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/fc0aff8fb82baa429426d22c62e572f404ae490eaf9b52702b8e2812dd5bdda3)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/fc0aff8fb82baa429426d22c62e572f404ae490eaf9b52702b8e2812dd5bdda3)
 > 06 November 2024 release We just did a Balsamiq Wireframes release. Here's what's new! Windows and Mac: We fixed a crash when importing new templates. Windows and Mac: We fixed a crash when using the documentation. Windows and Mac: We fixed a potential crash when using the find feature
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_15d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_15d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Cisco Jabber 15.0.1 (x86) (MSI)
 
-> 
-> **More Info:** [https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/jabber/ReleaseNotes/release-notes-for-cisco-jabber-15_0.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h5l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h5l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/jabber/ReleaseNotes/release-notes-for-cisco-jabber-15_0.html)
-> 
-> **Support Info:** [https://www.cisco.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i5l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i5l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.cisco.com/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j5l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j5l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/5ab33db56194c631410364f2ded8561abe5a2c2801e8edd8b9e2f88f34113dd7)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k5l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k5l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/5ab33db56194c631410364f2ded8561abe5a2c2801e8edd8b9e2f88f34113dd7)
-> 
+> **More Info:** [https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/jabber/ReleaseNotes/release-notes-for-cisco-jabber-15_0.html](https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/jabber/ReleaseNotes/release-notes-for-cisco-jabber-15_0.html)
+> **Support Info:** [https://www.cisco.com/](https://www.cisco.com/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/5ab33db56194c631410364f2ded8561abe5a2c2801e8edd8b9e2f88f34113dd7)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/5ab33db56194c631410364f2ded8561abe5a2c2801e8edd8b9e2f88f34113dd7)
 > New and updated features Audio enhancement mode deprecated We have deprecated the Call\_Center\_Audio\_Enhance\_Mode configuration key. Audio enhancement mode is not supported in this version of Jabber.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_15t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_15t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Citrix Workspace 24.5.11 (x86) (EXE)
 
-> 
-> **More Info:** [https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h6539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h6539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about.html)
-> 
-> **Support Info:** [https://discussions.citrix.com/forum/291-receiver-for-windows/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i6539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i6539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://discussions.citrix.com/forum/291-receiver-for-windows/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j6539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j6539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/6ef90c5e3a45abe7eb28374c91ecce4dfe8ea61aadbae0149285027d833b1561)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k6539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k6539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/6ef90c5e3a45abe7eb28374c91ecce4dfe8ea61aadbae0149285027d833b1561)
-> 
+> **More Info:** [https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about.html](https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about.html)
+> **Support Info:** [https://discussions.citrix.com/forum/291-receiver-for-windows/](https://discussions.citrix.com/forum/291-receiver-for-windows/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/6ef90c5e3a45abe7eb28374c91ecce4dfe8ea61aadbae0149285027d833b1561)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/6ef90c5e3a45abe7eb28374c91ecce4dfe8ea61aadbae0149285027d833b1561)
 > What’s new in 2405.10 Note: The minimum Microsoft Visual C++ Redistributable version required for Citrix Workspace app for Windows 2405.10 is 14.40.33810.0. This release addresses issues that help to improve overall performance, security, and stability.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_16d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_16d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 DBeaver CE 24.2.4 (x86.x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/dbeaver/dbeaver/releases/tag/24.2.4<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h6l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h6l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/dbeaver/dbeaver/releases/tag/24.2.4)
-> 
-> **Support Info:** [https://github.com/dbeaver/dbeaver/issues<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i6l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i6l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/dbeaver/dbeaver/issues)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j6l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j6l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/2d55c240e25ec6592e0806fe726713987db0a88a7fcbf764d80fdf7411f4b8a6)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k6l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k6l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/2d55c240e25ec6592e0806fe726713987db0a88a7fcbf764d80fdf7411f4b8a6)
-> 
+> **More Info:** [https://github.com/dbeaver/dbeaver/releases/tag/24.2.4](https://github.com/dbeaver/dbeaver/releases/tag/24.2.4)
+> **Support Info:** [https://github.com/dbeaver/dbeaver/issues](https://github.com/dbeaver/dbeaver/issues)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/2d55c240e25ec6592e0806fe726713987db0a88a7fcbf764d80fdf7411f4b8a6)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/2d55c240e25ec6592e0806fe726713987db0a88a7fcbf764d80fdf7411f4b8a6)
 > 24.2.4 SQL Editor: - A warning is now shown instead of an error when a DROP TABLE statement contains IF EXISTS and the table does not exist - Fixed script execution on disconnected state - New autocomplete engine now expands the \* symbol in SELECT statements when using "Ctrl + Space" - New autocomplete no longer suggests query-start keywords in the middle of queries
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_16t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_16t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Deskflow 1.17.0 (x64) (MSI)
 
-> 
-> **More Info:** [https://github.com/deskflow/deskflow/releases<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h7539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h7539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/deskflow/deskflow/releases)
-> 
-> **Support Info:** [https://github.com/deskflow/deskflow<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i7539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i7539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/deskflow/deskflow)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j7539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j7539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f70a21f8e4f415b47ad34aa30bddc8d929ad42dbaee071cbed40d577bd1e0f49)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k7539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k7539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f70a21f8e4f415b47ad34aa30bddc8d929ad42dbaee071cbed40d577bd1e0f49)
-> 
+> **More Info:** [https://github.com/deskflow/deskflow/releases](https://github.com/deskflow/deskflow/releases)
+> **Support Info:** [https://github.com/deskflow/deskflow](https://github.com/deskflow/deskflow)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f70a21f8e4f415b47ad34aa30bddc8d929ad42dbaee071cbed40d577bd1e0f49)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f70a21f8e4f415b47ad34aa30bddc8d929ad42dbaee071cbed40d577bd1e0f49)
 > 1.17.0 What's Changed Use Deskflow Name by @sithlord48 in #7519 fix: windows build typos by @enzious in #7521 Fix broken CI caused by renaming project to Deskflow by @nbolton in #7522 fix: protocol compatibility with Synergy by @sithlord48 in #7524 Remove Google Drive upload and always upload to GitHub by @nbolton in #7525
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_17d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_17d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 doPDF 11.9.481 (x86) (EXE)
 
-> 
-> **More Info:** [https://forum.dopdf.com/announcements-f2/changelog-dopdf-11-t5995.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h7l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h7l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://forum.dopdf.com/announcements-f2/changelog-dopdf-11-t5995.html)
-> 
-> **Support Info:** [https://www.dopdf.com/faq.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i7l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i7l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.dopdf.com/faq.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j7l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j7l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/b8d7038dbdea52a9e7f376a3fb626ed76dca78c9f14d1b1e6eebffa984466686)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k7l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k7l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/b8d7038dbdea52a9e7f376a3fb626ed76dca78c9f14d1b1e6eebffa984466686)
-> 
+> **More Info:** [https://forum.dopdf.com/announcements-f2/changelog-dopdf-11-t5995.html](https://forum.dopdf.com/announcements-f2/changelog-dopdf-11-t5995.html)
+> **Support Info:** [https://www.dopdf.com/faq.html](https://www.dopdf.com/faq.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/b8d7038dbdea52a9e7f376a3fb626ed76dca78c9f14d1b1e6eebffa984466686)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/b8d7038dbdea52a9e7f376a3fb626ed76dca78c9f14d1b1e6eebffa984466686)
 > Changes in doPDF 11.9.481 (25-October-2024) Updated: Use Microsoft Edge embedded browser instead of IE for update announcements Updated: Faster UI rendering (updated .NET framework) Fixed: Printer queue was blocked when printing labels simulating a thermal printer
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_17t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_17t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Edge WebView2 Runtime 130.0.2849.80 (x64) (EXE)
 
-> 
-> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h8539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h8539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-> 
-> **Support Info:** [https://docs.microsoft.com/en-us/microsoft-edge/webview2/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i8539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i8539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j8539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j8539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/fa07bc67c2a68763e127f6aabf5622b40a0220228899e78daf02ce2cc3971a50)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k8539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k8539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/fa07bc67c2a68763e127f6aabf5622b40a0220228899e78daf02ce2cc3971a50)
-> 
+> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+> **Support Info:** [https://docs.microsoft.com/en-us/microsoft-edge/webview2/](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/fa07bc67c2a68763e127f6aabf5622b40a0220228899e78daf02ce2cc3971a50)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/fa07bc67c2a68763e127f6aabf5622b40a0220228899e78daf02ce2cc3971a50)
 > Version 130.0.2849.80: November 7, 2024 Fixed various bugs and performance issues. Stable channel security updates are listed here. Version 130.0.2849.68: October 31, 2024 Fixed various bugs and performance issues, improved reliabilty. Stable channel security updates are listed here.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_18d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_18d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Edge WebView2 Runtime 130.0.2849.80 (x86) (EXE)
 
-> 
-> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h8l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h8l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-> 
-> **Support Info:** [https://docs.microsoft.com/en-us/microsoft-edge/webview2/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i8l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i8l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j8l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j8l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/5d5f40b387a6e010805cbe3e8bc88bc383a5223438865fbaaba9adf2cea34243)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k8l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k8l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/5d5f40b387a6e010805cbe3e8bc88bc383a5223438865fbaaba9adf2cea34243)
-> 
+> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+> **Support Info:** [https://docs.microsoft.com/en-us/microsoft-edge/webview2/](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/5d5f40b387a6e010805cbe3e8bc88bc383a5223438865fbaaba9adf2cea34243)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/5d5f40b387a6e010805cbe3e8bc88bc383a5223438865fbaaba9adf2cea34243)
 > Version 130.0.2849.80: November 7, 2024 Fixed various bugs and performance issues. Stable channel security updates are listed here. Version 130.0.2849.68: October 31, 2024 Fixed various bugs and performance issues, improved reliabilty. Stable channel security updates are listed here.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_18t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_18t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Evernote 10.114.2 (x86) (EXE)
 
-> 
-> **More Info:** [https://evernote.com/release-notes<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h9539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h9539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://evernote.com/release-notes)
-> 
-> **Support Info:** [https://help.evernote.com/hc/en-us<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i9539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i9539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://help.evernote.com/hc/en-us)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j9539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j9539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/e0eaa7899a4bf126358a735b5865ef70bb523ca6dd9f456a22cc450f53ef7bfc)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k9539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k9539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/e0eaa7899a4bf126358a735b5865ef70bb523ca6dd9f456a22cc450f53ef7bfc)
-> 
+> **More Info:** [https://evernote.com/release-notes](https://evernote.com/release-notes)
+> **Support Info:** [https://help.evernote.com/hc/en-us](https://help.evernote.com/hc/en-us)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/e0eaa7899a4bf126358a735b5865ef70bb523ca6dd9f456a22cc450f53ef7bfc)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/e0eaa7899a4bf126358a735b5865ef70bb523ca6dd9f456a22cc450f53ef7bfc)
 > Version 10.114.2 - Latest Fixes: Fixes an issue where linked notes sometimes failed to open properly if not accessed directly through the Notes list. Fixes an issue where Trash view would keep displaying even after switching back to Notes view. New Features: Business users now can't leave notebooks they own to prevent access loss. You can now add math formulas with LaTeX syntax for even richer notes!
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_19d39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_19d39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 FileZilla Client 3.68.1 (x64) (EXE)
 
-> 
-> **More Info:** [https://filezilla-project.org/changelog.php<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9h9l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9h9l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://filezilla-project.org/changelog.php)
-> 
-> **Support Info:** [https://filezilla-project.org/support.php<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9i9l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9i9l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://filezilla-project.org/support.php)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9j9l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9j9l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/1feb6c12f584e98f9fddf95bf128f549310c738376fab82a5893eafed765ad83)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9k9l39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9k9l39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/1feb6c12f584e98f9fddf95bf128f549310c738376fab82a5893eafed765ad83)
-> 
+> **More Info:** [https://filezilla-project.org/changelog.php](https://filezilla-project.org/changelog.php)
+> **Support Info:** [https://filezilla-project.org/support.php](https://filezilla-project.org/support.php)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/1feb6c12f584e98f9fddf95bf128f549310c738376fab82a5893eafed765ad83)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/1feb6c12f584e98f9fddf95bf128f549310c738376fab82a5893eafed765ad83)
 > Overview These changelogs reflect the history of all files in the Subversion repository. The changelog has been generated at 2024-11-08 10:50:01 Changelog for FileZilla 3 (8047 changes): 2024-11-04 15:30 codesquid, revision 11205 M /FileZilla3/trunk/configure.ac M /FileZilla3/trunk/NEWS Bump to 3.68.1
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_19t39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_19t39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 FileZilla Client 3.68.1 (x86) (EXE)
 
-> 
-> **More Info:** [https://filezilla-project.org/changelog.php<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ha539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ha539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://filezilla-project.org/changelog.php)
-> 
-> **Support Info:** [https://filezilla-project.org/support.php<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ia539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ia539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://filezilla-project.org/support.php)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ja539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ja539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/b87aa1b0408aa4cd60e8c1b4f5d02abf98c437214614db921c4908cb3ffe6c74)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ka539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ka539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/b87aa1b0408aa4cd60e8c1b4f5d02abf98c437214614db921c4908cb3ffe6c74)
-> 
+> **More Info:** [https://filezilla-project.org/changelog.php](https://filezilla-project.org/changelog.php)
+> **Support Info:** [https://filezilla-project.org/support.php](https://filezilla-project.org/support.php)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/b87aa1b0408aa4cd60e8c1b4f5d02abf98c437214614db921c4908cb3ffe6c74)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/b87aa1b0408aa4cd60e8c1b4f5d02abf98c437214614db921c4908cb3ffe6c74)
 > Overview These changelogs reflect the history of all files in the Subversion repository. The changelog has been generated at 2024-11-08 10:50:01 Changelog for FileZilla 3 (8047 changes): 2024-11-04 15:30 codesquid, revision 11205 M /FileZilla3/trunk/configure.ac M /FileZilla3/trunk/NEWS Bump to 3.68.1
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ad39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ad39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Gantt Project 3.3 (x86) (EXE)
 
-> 
-> **More Info:** [https://github.com/bardsoftware/ganttproject/releases/tag/ganttproject-3.3.3312<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hal39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hal39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/bardsoftware/ganttproject/releases/tag/ganttproject-3.3.3312)
-> 
-> **Support Info:** [https://www.ganttproject.biz/support<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ial39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ial39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.ganttproject.biz/support)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jal39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jal39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/2ba16e9a215e20b171f8e48c170af7fa65dd326d342116e1db45da453ff5c645)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kal39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kal39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/2ba16e9a215e20b171f8e48c170af7fa65dd326d342116e1db45da453ff5c645)
-> 
+> **More Info:** [https://github.com/bardsoftware/ganttproject/releases/tag/ganttproject-3.3.3312](https://github.com/bardsoftware/ganttproject/releases/tag/ganttproject-3.3.3312)
+> **Support Info:** [https://www.ganttproject.biz/support](https://www.ganttproject.biz/support)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/2ba16e9a215e20b171f8e48c170af7fa65dd326d342116e1db45da453ff5c645)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/2ba16e9a215e20b171f8e48c170af7fa65dd326d342116e1db45da453ff5c645)
 > GanttProject 3.3 Release Highlights Calculated Columns Custom columns in the task table now allow for calculating their values with the help of SQL expressions. View a short video to see this feature in action Native Package for Apple Silicon Platform GanttProject 3.3 runs natively on the Apple Silicon platform (M1 and M2 chips). This addresses issues related to performance and launching on Apple Silicon.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1at39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1at39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Genesys Cloud 2.39.800 (x86) (EXE)
 
-> 
-> **More Info:** [https://help.mypurecloud.com/genesys-cloud-for-windows-desktop-app-release-notes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hb539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hb539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://help.mypurecloud.com/genesys-cloud-for-windows-desktop-app-release-notes/)
-> 
-> **Support Info:** [https://help.mypurecloud.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ib539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ib539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://help.mypurecloud.com/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jb539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jb539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/beb83f846f7fa411bba5b915d8c8fb81cda267d0b5fb99a051b3d17b2e3adcd1)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kb539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kb539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/beb83f846f7fa411bba5b915d8c8fb81cda267d0b5fb99a051b3d17b2e3adcd1)
-> 
+> **More Info:** [https://help.mypurecloud.com/genesys-cloud-for-windows-desktop-app-release-notes/](https://help.mypurecloud.com/genesys-cloud-for-windows-desktop-app-release-notes/)
+> **Support Info:** [https://help.mypurecloud.com/](https://help.mypurecloud.com/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/beb83f846f7fa411bba5b915d8c8fb81cda267d0b5fb99a051b3d17b2e3adcd1)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/beb83f846f7fa411bba5b915d8c8fb81cda267d0b5fb99a051b3d17b2e3adcd1)
 > Version 2.39.800 – November 1, 2024 New Fixes crash when running on Windows 11 24H2 Version 2.39.799 – October 21, 2024 New Updated to Chromium 129.0.6668.71 Fixed a crash when cancelling the screen share window selection dialog. Enable popups to open to allow screenpop actions to work as expected. Added the ability to disable automatic updates by using a local machine registry key. Fixed the ability to download multiple email attachments.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1bd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1bd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Gitify 5.16.2 (x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/gitify-app/gitify/releases/tag/v5.16.2<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hbl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hbl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/gitify-app/gitify/releases/tag/v5.16.2)
-> 
-> **Support Info:** [https://www.gitify.io/faq/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ibl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ibl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.gitify.io/faq/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jbl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jbl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/7c47f1ac244c37ef644996907ef2dc4d413e2cc0a673b6fc9866791bd4dc6167)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kbl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kbl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/7c47f1ac244c37ef644996907ef2dc4d413e2cc0a673b6fc9866791bd4dc6167)
-> 
+> **More Info:** [https://github.com/gitify-app/gitify/releases/tag/v5.16.2](https://github.com/gitify-app/gitify/releases/tag/v5.16.2)
+> **Support Info:** [https://www.gitify.io/faq/](https://www.gitify.io/faq/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/7c47f1ac244c37ef644996907ef2dc4d413e2cc0a673b6fc9866791bd4dc6167)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/7c47f1ac244c37ef644996907ef2dc4d413e2cc0a673b6fc9866791bd4dc6167)
 > Gitify v5.16.2 Bug Fixes fix: set 'Cache-Control: no-cache' for GHE server by @pddg in #1622 Dependency Updates chore(deps): update dependency electron-builder to v25.1.8 by @renovate in #1590 chore(deps): update dependency tailwind-merge to v2.5.4 by @renovate in #1591 chore(deps): update dependency @primer/octicons-react to v19.12.0 by @renovate in #1592
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1bt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1bt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Google Chrome 130.0.6723.117 (x64) (MSI)
 
-> 
-> **More Info:** [https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hc539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hc539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html)
-> 
-> **Support Info:** [https://support.google.com/chrome/a<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ic539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ic539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.google.com/chrome/a)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jc539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jc539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/31171278d5da948b7133d5b1ee41a18423fca8c2d404c94c5ac212bcbec9cea0)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kc539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kc539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/31171278d5da948b7133d5b1ee41a18423fca8c2d404c94c5ac212bcbec9cea0)
-> 
+> **More Info:** [https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html](https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html)
+> **Support Info:** [https://support.google.com/chrome/a](https://support.google.com/chrome/a)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/31171278d5da948b7133d5b1ee41a18423fca8c2d404c94c5ac212bcbec9cea0)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/31171278d5da948b7133d5b1ee41a18423fca8c2d404c94c5ac212bcbec9cea0)
 > Stable Channel Update for Desktop Tuesday, November 5, 2024 The Stable channel has been updated to 130.0.6723.116/.117 for Windows, Mac and 130.0.6723.116 for Linux which will roll out over the coming days/weeks. A full list of changes in this build is available in the Log. The Extended Stable channel has been updated to 130.0.6723.117 for Windows and Mac which will roll out over the coming days/weeks.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1cd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1cd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Google Chrome 130.0.6723.117 (x86) (MSI)
 
-> 
-> **More Info:** [https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hcl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hcl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html)
-> 
-> **Support Info:** [https://support.google.com/chrome/a<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9icl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9icl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.google.com/chrome/a)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jcl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jcl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/4a966c8bce6c73a73726cfc520419d05b526065f5f2ba21f6b6b24e661adb1ac)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kcl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kcl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/4a966c8bce6c73a73726cfc520419d05b526065f5f2ba21f6b6b24e661adb1ac)
-> 
+> **More Info:** [https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html](https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html)
+> **Support Info:** [https://support.google.com/chrome/a](https://support.google.com/chrome/a)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/4a966c8bce6c73a73726cfc520419d05b526065f5f2ba21f6b6b24e661adb1ac)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/4a966c8bce6c73a73726cfc520419d05b526065f5f2ba21f6b6b24e661adb1ac)
 > Stable Channel Update for Desktop Tuesday, November 5, 2024 The Stable channel has been updated to 130.0.6723.116/.117 for Windows, Mac and 130.0.6723.116 for Linux which will roll out over the coming days/weeks. A full list of changes in this build is available in the Log. The Extended Stable channel has been updated to 130.0.6723.117 for Windows and Mac which will roll out over the coming days/weeks.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ct39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ct39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 IrfanView 4.70 (x64) (EXE)
 
-> 
-> **More Info:** [https://www.irfanview.com/main_history.htm<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hd539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hd539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.irfanview.com/main_history.htm)
-> 
-> **Support Info:** [https://www.irfanview.com/main_support_engl.htm<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9id539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9id539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.irfanview.com/main_support_engl.htm)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jd539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jd539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/6d5205afe77c343affbd26b0ff53fdac0219645b05b6ed35bc84c359d5e1f093)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kd539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kd539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/6d5205afe77c343affbd26b0ff53fdac0219645b05b6ed35bc84c359d5e1f093)
-> 
+> **More Info:** [https://www.irfanview.com/main_history.htm](https://www.irfanview.com/main_history.htm)
+> **Support Info:** [https://www.irfanview.com/main_support_engl.htm](https://www.irfanview.com/main_support_engl.htm)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/6d5205afe77c343affbd26b0ff53fdac0219645b05b6ed35bc84c359d5e1f093)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/6d5205afe77c343affbd26b0ff53fdac0219645b05b6ed35bc84c359d5e1f093)
 > Version 4.70 ( - CURRENT VERSION - ) (Release date: 2024-10-11) New option: Keep existing alpha/transparency color (Properties->Viewing) Show checkerboard image; Alpha/Color also used for saving New option in Increase Color Depth dialog: 32 BPP (with alpha layer) New option in Replace Color dialog: Set transparent color (if 32 BPP image)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1dd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1dd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 IrfanView 4.70 (x86) (EXE)
 
-> 
-> **More Info:** [https://www.irfanview.com/main_history.htm<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hdl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hdl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.irfanview.com/main_history.htm)
-> 
-> **Support Info:** [https://www.irfanview.com/main_support_engl.htm<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9idl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9idl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.irfanview.com/main_support_engl.htm)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jdl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jdl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/3c7d575feb92719934f6c8d4ca31d0dc235a91705ec24d1f8220204da8e55729)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kdl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kdl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/3c7d575feb92719934f6c8d4ca31d0dc235a91705ec24d1f8220204da8e55729)
-> 
+> **More Info:** [https://www.irfanview.com/main_history.htm](https://www.irfanview.com/main_history.htm)
+> **Support Info:** [https://www.irfanview.com/main_support_engl.htm](https://www.irfanview.com/main_support_engl.htm)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/3c7d575feb92719934f6c8d4ca31d0dc235a91705ec24d1f8220204da8e55729)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/3c7d575feb92719934f6c8d4ca31d0dc235a91705ec24d1f8220204da8e55729)
 > Version 4.70 ( - CURRENT VERSION - ) (Release date: 2024-10-11) New option: Keep existing alpha/transparency color (Properties->Viewing) Show checkerboard image; Alpha/Color also used for saving New option in Increase Color Depth dialog: 32 BPP (with alpha layer) New option in Replace Color dialog: Set transparent color (if 32 BPP image)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1dt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1dt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Mendeley Reference Manager 2.125.2 (x64) (EXE)
 
-> 
-> **More Info:** [https://www.mendeley.com/release-notes-reference-manager/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9he539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9he539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mendeley.com/release-notes-reference-manager/)
-> 
-> **Support Info:** [https://www.mendeley.com/?interaction_required=true<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ie539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ie539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mendeley.com/?interaction_required=true)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9je539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9je539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/bf357fda4c4d8467f4cb46a178ca9789e9ed068eec14fdc58b7772b1de8f6d68)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ke539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ke539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/bf357fda4c4d8467f4cb46a178ca9789e9ed068eec14fdc58b7772b1de8f6d68)
-> 
+> **More Info:** [https://www.mendeley.com/release-notes-reference-manager/](https://www.mendeley.com/release-notes-reference-manager/)
+> **Support Info:** [https://www.mendeley.com/?interaction_required=true](https://www.mendeley.com/?interaction_required=true)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/bf357fda4c4d8467f4cb46a178ca9789e9ed068eec14fdc58b7772b1de8f6d68)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/bf357fda4c4d8467f4cb46a178ca9789e9ed068eec14fdc58b7772b1de8f6d68)
 > Mendeley Reference Manager v2.125.2 We have fixed: Fixed a bug that would cause the search to stop working Support If you encounter any problems using Mendeley or have questions to ask please contact our support team. For news and updates about Mendeley see our blog.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ed39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ed39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Microsoft Edge 130.0.2849.80 (x64) (MSI)
 
-> 
-> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hel39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hel39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-> 
-> **Support Info:** [https://support.microsoft.com/en-us/microsoft-edge<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9iel39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9iel39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.microsoft.com/en-us/microsoft-edge)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jel39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jel39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/84ba997b57bb7b4ee4222816d2202d090f8002874a3fba6ef54f11a74cff1bd4)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kel39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kel39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/84ba997b57bb7b4ee4222816d2202d090f8002874a3fba6ef54f11a74cff1bd4)
-> 
+> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+> **Support Info:** [https://support.microsoft.com/en-us/microsoft-edge](https://support.microsoft.com/en-us/microsoft-edge)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/84ba997b57bb7b4ee4222816d2202d090f8002874a3fba6ef54f11a74cff1bd4)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/84ba997b57bb7b4ee4222816d2202d090f8002874a3fba6ef54f11a74cff1bd4)
 > Version 130.0.2849.80: November 7, 2024 Fixed various bugs and performance issues. Stable channel security updates are listed here. Version 130.0.2849.68: October 31, 2024 Fixed various bugs and performance issues, improved reliabilty. Stable channel security updates are listed here.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1et39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1et39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Microsoft Edge 130.0.2849.80 (x86) (MSI)
 
-> 
-> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hf539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hf539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-> 
-> **Support Info:** [https://support.microsoft.com/en-us/microsoft-edge<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9if539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9if539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.microsoft.com/en-us/microsoft-edge)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jf539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jf539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/6027d2aad7bdbb0515caf68230c942fff732a433271aebbd7f6414560331a320)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kf539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kf539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/6027d2aad7bdbb0515caf68230c942fff732a433271aebbd7f6414560331a320)
-> 
+> **More Info:** [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+> **Support Info:** [https://support.microsoft.com/en-us/microsoft-edge](https://support.microsoft.com/en-us/microsoft-edge)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/6027d2aad7bdbb0515caf68230c942fff732a433271aebbd7f6414560331a320)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/6027d2aad7bdbb0515caf68230c942fff732a433271aebbd7f6414560331a320)
 > Version 130.0.2849.80: November 7, 2024 Fixed various bugs and performance issues. Stable channel security updates are listed here. Version 130.0.2849.68: October 31, 2024 Fixed various bugs and performance issues, improved reliabilty. Stable channel security updates are listed here.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1fd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1fd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Microsoft PowerToys 0.86.0 (x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/microsoft/PowerToys/releases/tag/v0.86.0<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hfl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hfl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/microsoft/PowerToys/releases/tag/v0.86.0)
-> 
-> **Support Info:** [https://github.com/microsoft/PowerToys<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ifl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ifl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/microsoft/PowerToys)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jfl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jfl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/857de9dc5938d9602f82dfd6183db5e6823b875a412aec59b4be93617e27e9cd)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kfl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kfl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/857de9dc5938d9602f82dfd6183db5e6823b875a412aec59b4be93617e27e9cd)
-> 
+> **More Info:** [https://github.com/microsoft/PowerToys/releases/tag/v0.86.0](https://github.com/microsoft/PowerToys/releases/tag/v0.86.0)
+> **Support Info:** [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/857de9dc5938d9602f82dfd6183db5e6823b875a412aec59b4be93617e27e9cd)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/857de9dc5938d9602f82dfd6183db5e6823b875a412aec59b4be93617e27e9cd)
 > Release v0.86.0 Highlights Advanced Paste has new abilities: Image to text, and paste to file (text / png / html). In settings, we've adjusted the left navigation to group the utilities. As the number of utilities shipped with PowerToys keeps growing, we felt this was a needed adjustment. Thanks everyone for your feedback!
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ft39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ft39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Mozilla Firefox 132.0.1 en-US (x64) (EXE)
 
-> 
-> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hg539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hg539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
-> 
-> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ig539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ig539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jg539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jg539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/9c10e9e5fb0a0eea33ca5424f66e3843351897043c194d5460c3ed06457f8ddb)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kg539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kg539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/9c10e9e5fb0a0eea33ca5424f66e3843351897043c194d5460c3ed06457f8ddb)
-> 
+> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
+> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/9c10e9e5fb0a0eea33ca5424f66e3843351897043c194d5460c3ed06457f8ddb)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/9c10e9e5fb0a0eea33ca5424f66e3843351897043c194d5460c3ed06457f8ddb)
 > 132.0.1 Firefox Release November 4, 2024 Version 132.0.1, first offered to Release channel users on November 4, 2024 Fixed Fixed issues causing intermittent video playback problems on some sites. (Bug 1928484, Bug 1928798)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1gd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1gd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Mozilla Firefox 132.0.1 en-US (x86) (EXE)
 
-> 
-> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hgl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hgl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
-> 
-> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9igl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9igl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jgl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jgl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/43b2f12dd4273e6aaa7faeb2d0ecc130c43e338e17c0095eefffb07645335ec3)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kgl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kgl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/43b2f12dd4273e6aaa7faeb2d0ecc130c43e338e17c0095eefffb07645335ec3)
-> 
+> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
+> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/43b2f12dd4273e6aaa7faeb2d0ecc130c43e338e17c0095eefffb07645335ec3)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/43b2f12dd4273e6aaa7faeb2d0ecc130c43e338e17c0095eefffb07645335ec3)
 > 132.0.1 Firefox Release November 4, 2024 Version 132.0.1, first offered to Release channel users on November 4, 2024 Fixed Fixed issues causing intermittent video playback problems on some sites. (Bug 1928484, Bug 1928798)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1gt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1gt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Mozilla Firefox 132.0.1 tr-TR (x64) (EXE)
 
-> 
-> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hh539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hh539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
-> 
-> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ih539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ih539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jh539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jh539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/c80b509a720da2eda822651cc05d17d8a10392b6c13e93dc1c235ca953555345)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kh539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kh539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/c80b509a720da2eda822651cc05d17d8a10392b6c13e93dc1c235ca953555345)
-> 
+> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
+> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/c80b509a720da2eda822651cc05d17d8a10392b6c13e93dc1c235ca953555345)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/c80b509a720da2eda822651cc05d17d8a10392b6c13e93dc1c235ca953555345)
 > 132.0.1 Firefox Release November 4, 2024 Version 132.0.1, first offered to Release channel users on November 4, 2024 Fixed Fixed issues causing intermittent video playback problems on some sites. (Bug 1928484, Bug 1928798)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1hd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1hd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Mozilla Firefox 132.0.1 tr-TR (x86) (EXE)
 
-> 
-> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hhl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hhl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
-> 
-> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ihl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ihl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jhl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jhl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/665c771276c41f65a34f04a0508e91b4f750fcead4b29a6bcd019bf5d63bf863)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9khl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9khl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/665c771276c41f65a34f04a0508e91b4f750fcead4b29a6bcd019bf5d63bf863)
-> 
+> **More Info:** [https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/](https://www.mozilla.org/en-US/firefox/132.0.1/releasenotes/)
+> **Support Info:** [https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/](https://www.mozilla.org/en-US/security/advisories/mfsa2023-08/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/665c771276c41f65a34f04a0508e91b4f750fcead4b29a6bcd019bf5d63bf863)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/665c771276c41f65a34f04a0508e91b4f750fcead4b29a6bcd019bf5d63bf863)
 > 132.0.1 Firefox Release November 4, 2024 Version 132.0.1, first offered to Release channel users on November 4, 2024 Fixed Fixed issues causing intermittent video playback problems on some sites. (Bug 1928484, Bug 1928798)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ht39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ht39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 MySQL Connector ODBC 8.0.40 (x86) (MSI)
 
-> 
-> **More Info:** [https://dev.mysql.com/doc/relnotes/connector-odbc/en/news-8-0-40.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hi539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hi539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://dev.mysql.com/doc/relnotes/connector-odbc/en/news-8-0-40.html)
-> 
-> **Support Info:** [https://dev.mysql.com/downloads/connector/odbc/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ii539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ii539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://dev.mysql.com/downloads/connector/odbc/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ji539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ji539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/45309736dcbeb0bef8152063dc231e75c5817d189d2e210118cc8a9fcccc0cce)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ki539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ki539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/45309736dcbeb0bef8152063dc231e75c5817d189d2e210118cc8a9fcccc0cce)
-> 
+> **More Info:** [https://dev.mysql.com/doc/relnotes/connector-odbc/en/news-8-0-40.html](https://dev.mysql.com/doc/relnotes/connector-odbc/en/news-8-0-40.html)
+> **Support Info:** [https://dev.mysql.com/downloads/connector/odbc/](https://dev.mysql.com/downloads/connector/odbc/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/45309736dcbeb0bef8152063dc231e75c5817d189d2e210118cc8a9fcccc0cce)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/45309736dcbeb0bef8152063dc231e75c5817d189d2e210118cc8a9fcccc0cce)
 > Changes in MySQL Connector/ODBC 8.0.40 (2024-10-15, General Availability) Bugs Fixed Fixed a potential Out of Bounds (OOB) issue related to escaping large queries. (Bug #36955942) The internal mysql\_init() function used for making connections is now thread safe. (Bug #115710, Bug #36894687)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1id39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1id39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Node.js 22.11.0 (x64) (MSI)
 
-> 
-> **More Info:** [https://github.com/nodejs/node/releases<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hil39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hil39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/nodejs/node/releases)
-> 
-> **Support Info:** [https://nodejs.org/en/docs<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9iil39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9iil39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://nodejs.org/en/docs)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jil39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jil39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/9eea480bd30c98ae11a97cb89a9278235cbbbd03c171ee5e5198bd86b7965b4b)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kil39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kil39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/9eea480bd30c98ae11a97cb89a9278235cbbbd03c171ee5e5198bd86b7965b4b)
-> 
+> **More Info:** [https://github.com/nodejs/node/releases](https://github.com/nodejs/node/releases)
+> **Support Info:** [https://nodejs.org/en/docs](https://nodejs.org/en/docs)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/9eea480bd30c98ae11a97cb89a9278235cbbbd03c171ee5e5198bd86b7965b4b)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/9eea480bd30c98ae11a97cb89a9278235cbbbd03c171ee5e5198bd86b7965b4b)
 > 2024-10-29, Version 22.11.0 'Jod' (LTS), @richardlau Notable Changes This release marks the transition of Node.js 22.x into Long Term Support (LTS) with the codename 'Jod'. The 22.x release line now moves into "Active LTS" and will remain so until October 2025. After that time, it will move into "Maintenance" until end of life in April 2027.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1it39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1it39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Node.js 22.11.0 (x86) (MSI)
 
-> 
-> **More Info:** [https://github.com/nodejs/node/releases<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hj539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hj539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/nodejs/node/releases)
-> 
-> **Support Info:** [https://nodejs.org/en/docs<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ij539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ij539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://nodejs.org/en/docs)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jj539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jj539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/ab19f02c4b0d9f578928b67d2a652496aa31729a8cc9771ffc9cc6d3b8afe7e3)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kj539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kj539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/ab19f02c4b0d9f578928b67d2a652496aa31729a8cc9771ffc9cc6d3b8afe7e3)
-> 
+> **More Info:** [https://github.com/nodejs/node/releases](https://github.com/nodejs/node/releases)
+> **Support Info:** [https://nodejs.org/en/docs](https://nodejs.org/en/docs)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/ab19f02c4b0d9f578928b67d2a652496aa31729a8cc9771ffc9cc6d3b8afe7e3)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/ab19f02c4b0d9f578928b67d2a652496aa31729a8cc9771ffc9cc6d3b8afe7e3)
 > 2024-10-29, Version 22.11.0 'Jod' (LTS), @richardlau Notable Changes This release marks the transition of Node.js 22.x into Long Term Support (LTS) with the codename 'Jod'. The 22.x release line now moves into "Active LTS" and will remain so until October 2025. After that time, it will move into "Maintenance" until end of life in April 2027.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1jd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1jd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Notepad++ 8.7.1 (x64) (EXE)
 
-> 
-> **More Info:** [https://notepad-plus-plus.org/downloads/v8.7.1/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hjl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hjl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://notepad-plus-plus.org/downloads/v8.7.1/)
-> 
-> **Support Info:** [https://notepad-plus-plus.org/online-help/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ijl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ijl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://notepad-plus-plus.org/online-help/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jjl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jjl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/aa130d151859eccc8b4cc535ae756682069d626087e8c56a35b630df4b5f0024)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kjl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kjl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/aa130d151859eccc8b4cc535ae756682069d626087e8c56a35b630df4b5f0024)
-> 
+> **More Info:** [https://notepad-plus-plus.org/downloads/v8.7.1/](https://notepad-plus-plus.org/downloads/v8.7.1/)
+> **Support Info:** [https://notepad-plus-plus.org/online-help/](https://notepad-plus-plus.org/online-help/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/aa130d151859eccc8b4cc535ae756682069d626087e8c56a35b630df4b5f0024)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/aa130d151859eccc8b4cc535ae756682069d626087e8c56a35b630df4b5f0024)
 > Notepad++ v8.7.1 bug-fixes & enhancements: Update cURL in Notepad++ updater (WinGUp) for fixing cURL’s CVE-2024-7264 issue. (Fix #73) Fix opened network files hanging while the network disconnected. (Fix #4306, #6178, #8055, #11388, #12553, #15540) Fix not being able to open folder via cammand argument regression. (Fix #15645)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1jt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1jt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Notepad++ 8.7.1 (x86) (EXE)
 
-> 
-> **More Info:** [https://notepad-plus-plus.org/downloads/v8.7.1/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hk539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hk539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://notepad-plus-plus.org/downloads/v8.7.1/)
-> 
-> **Support Info:** [https://notepad-plus-plus.org/online-help/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ik539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ik539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://notepad-plus-plus.org/online-help/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jk539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jk539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/17964529838f304d71015d133e47531f3cf1ec5171d7222023e190c7025c1553)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kk539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kk539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/17964529838f304d71015d133e47531f3cf1ec5171d7222023e190c7025c1553)
-> 
+> **More Info:** [https://notepad-plus-plus.org/downloads/v8.7.1/](https://notepad-plus-plus.org/downloads/v8.7.1/)
+> **Support Info:** [https://notepad-plus-plus.org/online-help/](https://notepad-plus-plus.org/online-help/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/17964529838f304d71015d133e47531f3cf1ec5171d7222023e190c7025c1553)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/17964529838f304d71015d133e47531f3cf1ec5171d7222023e190c7025c1553)
 > Notepad++ v8.7.1 bug-fixes & enhancements: Update cURL in Notepad++ updater (WinGUp) for fixing cURL’s CVE-2024-7264 issue. (Fix #73) Fix opened network files hanging while the network disconnected. (Fix #4306, #6178, #8055, #11388, #12553, #15540) Fix not being able to open folder via cammand argument regression. (Fix #15645)
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1kd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1kd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Opera 114.0.5282.154 (x64) (EXE)
 
-> 
-> **More Info:** [https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hkl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hkl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/)
-> 
-> **Support Info:** [https://www.opera.com/help<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ikl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ikl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.opera.com/help)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jkl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jkl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/bb1d1f173c2c37d6b20190aa8beb409d939adb1cb7c93f7bea841756bf0a0ab2)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kkl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kkl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/bb1d1f173c2c37d6b20190aa8beb409d939adb1cb7c93f7bea841756bf0a0ab2)
-> 
+> **More Info:** [https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/](https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/)
+> **Support Info:** [https://www.opera.com/help](https://www.opera.com/help)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/bb1d1f173c2c37d6b20190aa8beb409d939adb1cb7c93f7bea841756bf0a0ab2)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/bb1d1f173c2c37d6b20190aa8beb409d939adb1cb7c93f7bea841756bf0a0ab2)
 > Opera 114.0.5282.154 Stable update Hello! The latest Opera update is here – 114.0.5282.154 and focuses on stability: Fixed Profile Error Crashes Enchanced Wallpaper Persistence for Classic Theme Resolved Vibes Service Crashes Update now for a smoother, more reliable Opera experience!
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1kt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1kt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Opera 114.0.5282.154 (x86) (EXE)
 
-> 
-> **More Info:** [https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hl539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hl539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/)
-> 
-> **Support Info:** [https://www.opera.com/help<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9il539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9il539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.opera.com/help)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jl539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jl539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/b039b32368067c62c7a29ac86872cfbd109f40081fc29fadf61ddaeca276fc24)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kl539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kl539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/b039b32368067c62c7a29ac86872cfbd109f40081fc29fadf61ddaeca276fc24)
-> 
+> **More Info:** [https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/](https://blogs.opera.com/desktop/2024/11/opera-114-0-5282-154-stable-update/)
+> **Support Info:** [https://www.opera.com/help](https://www.opera.com/help)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/b039b32368067c62c7a29ac86872cfbd109f40081fc29fadf61ddaeca276fc24)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/b039b32368067c62c7a29ac86872cfbd109f40081fc29fadf61ddaeca276fc24)
 > Opera 114.0.5282.154 Stable update Hello! The latest Opera update is here – 114.0.5282.154 and focuses on stability: Fixed Profile Error Crashes Enchanced Wallpaper Persistence for Classic Theme Resolved Vibes Service Crashes Update now for a smoother, more reliable Opera experience!
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ld39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ld39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Parallels Client 20.0.25389 (x64) (MSI)
 
-> 
-> **More Info:** [https://kb.parallels.com/en/130242<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hll39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hll39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://kb.parallels.com/en/130242)
-> 
-> **Support Info:** [https://www.parallels.com/products/ras/download/client/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ill39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ill39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.parallels.com/products/ras/download/client/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jll39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jll39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/b9cf278f66954e869f0323cd027171ed9557db0aa1c86f3f4118e86a21bd281b)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kll39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kll39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/b9cf278f66954e869f0323cd027171ed9557db0aa1c86f3f4118e86a21bd281b)
-> 
+> **More Info:** [https://kb.parallels.com/en/130242](https://kb.parallels.com/en/130242)
+> **Support Info:** [https://www.parallels.com/products/ras/download/client/](https://www.parallels.com/products/ras/download/client/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/b9cf278f66954e869f0323cd027171ed9557db0aa1c86f3f4118e86a21bd281b)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/b9cf278f66954e869f0323cd027171ed9557db0aa1c86f3f4118e86a21bd281b)
 > Parallels RAS Core v20.0-25389 (30 October 2024) New: Ability to publish resources from a local device. New: Support for Amazon Web Services (AWS) Availability Zones. New: Ability to view the IP addresses of RAS Farms in Parallels My Account. New: The column “Secure Gateway” was added to the session overview to show to which RAS Secure Gateway the user was connected last.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1lt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1lt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Parallels Client 20.0.25389 (x86) (MSI)
 
-> 
-> **More Info:** [https://kb.parallels.com/en/130242<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hm539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hm539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://kb.parallels.com/en/130242)
-> 
-> **Support Info:** [https://www.parallels.com/products/ras/download/client/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9im539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9im539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.parallels.com/products/ras/download/client/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jm539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jm539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/a69951770daaae4460ce93ac2a5c6974af9dc1a1e5e261a5887500bd0defc16b)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9km539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9km539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/a69951770daaae4460ce93ac2a5c6974af9dc1a1e5e261a5887500bd0defc16b)
-> 
+> **More Info:** [https://kb.parallels.com/en/130242](https://kb.parallels.com/en/130242)
+> **Support Info:** [https://www.parallels.com/products/ras/download/client/](https://www.parallels.com/products/ras/download/client/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/a69951770daaae4460ce93ac2a5c6974af9dc1a1e5e261a5887500bd0defc16b)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/a69951770daaae4460ce93ac2a5c6974af9dc1a1e5e261a5887500bd0defc16b)
 > Parallels RAS Core v20.0-25389 (30 October 2024) New: Ability to publish resources from a local device. New: Support for Amazon Web Services (AWS) Availability Zones. New: Ability to view the IP addresses of RAS Farms in Parallels My Account. New: The column “Secure Gateway” was added to the session overview to show to which RAS Secure Gateway the user was connected last.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1md39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1md39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 PeaZip 10.0.0 (x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/peazip/PeaZip/releases/tag/10.0.0<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hml39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hml39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/peazip/PeaZip/releases/tag/10.0.0)
-> 
-> **Support Info:** [https://peazip.github.io/peazip-help-faq.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9iml39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9iml39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://peazip.github.io/peazip-help-faq.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jml39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jml39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/3c823c6bde5a6ed0fc4795963e0caa4ccfa1b773ac42942c676519ffe7e1d574)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kml39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kml39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/3c823c6bde5a6ed0fc4795963e0caa4ccfa1b773ac42942c676519ffe7e1d574)
-> 
+> **More Info:** [https://github.com/peazip/PeaZip/releases/tag/10.0.0](https://github.com/peazip/PeaZip/releases/tag/10.0.0)
+> **Support Info:** [https://peazip.github.io/peazip-help-faq.html](https://peazip.github.io/peazip-help-faq.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/3c823c6bde5a6ed0fc4795963e0caa4ccfa1b773ac42942c676519ffe7e1d574)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/3c823c6bde5a6ed0fc4795963e0caa4ccfa1b773ac42942c676519ffe7e1d574)
 > PeaZip 10.0.0 PeaZip 10.0.0 provides a revamped GUI engine, updates menus, compression pre-sets (TAR.GZ, TAR.XZ, TAR.ZST), and Themes. File tools menu can now directly save save checksum/hash reports in a format compatible with GNU Coreutils, and allows to search hash values online - i.e. for matching with known values, for detection of know malware, etc.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1mt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1mt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 PeaZip 10.0.0 (x86) (EXE)
 
-> 
-> **More Info:** [https://github.com/peazip/PeaZip/releases/tag/10.0.0<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hn539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hn539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/peazip/PeaZip/releases/tag/10.0.0)
-> 
-> **Support Info:** [https://peazip.github.io/peazip-help-faq.html<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9in539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9in539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://peazip.github.io/peazip-help-faq.html)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jn539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jn539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f4374f73b406f24588395d87f0737be8e85389664a0280b719b10d2f96539570)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kn539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kn539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f4374f73b406f24588395d87f0737be8e85389664a0280b719b10d2f96539570)
-> 
+> **More Info:** [https://github.com/peazip/PeaZip/releases/tag/10.0.0](https://github.com/peazip/PeaZip/releases/tag/10.0.0)
+> **Support Info:** [https://peazip.github.io/peazip-help-faq.html](https://peazip.github.io/peazip-help-faq.html)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f4374f73b406f24588395d87f0737be8e85389664a0280b719b10d2f96539570)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f4374f73b406f24588395d87f0737be8e85389664a0280b719b10d2f96539570)
 > PeaZip 10.0.0 PeaZip 10.0.0 provides a revamped GUI engine, updates menus, compression pre-sets (TAR.GZ, TAR.XZ, TAR.ZST), and Themes. File tools menu can now directly save save checksum/hash reports in a format compatible with GNU Coreutils, and allows to search hash values online - i.e. for matching with known values, for detection of know malware, etc.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1nd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1nd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 PreForm 3.41.2 (x64) (EXE)
 
-> 
-> **More Info:** [https://support.formlabs.com/s/article/PreForm-Release-Notes<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hnl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hnl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.formlabs.com/s/article/PreForm-Release-Notes)
-> 
-> **Support Info:** [https://support.formlabs.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9inl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9inl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://support.formlabs.com/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jnl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jnl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f5c86ebae323e8db66709c6806bcbb3d37bfebc0405ad98b029d6a531b461b62)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9knl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9knl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f5c86ebae323e8db66709c6806bcbb3d37bfebc0405ad98b029d6a531b461b62)
-> 
+> **More Info:** [https://support.formlabs.com/s/article/PreForm-Release-Notes](https://support.formlabs.com/s/article/PreForm-Release-Notes)
+> **Support Info:** [https://support.formlabs.com/](https://support.formlabs.com/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f5c86ebae323e8db66709c6806bcbb3d37bfebc0405ad98b029d6a531b461b62)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f5c86ebae323e8db66709c6806bcbb3d37bfebc0405ad98b029d6a531b461b62)
 > PreForm 3.41.2 — October 31, 2024 PreForm 3.41.2 is a recommended update for Fuse 1, Fuse 1+, Form 4B, Form 4, Form 4L, Form 4BL, Form 3BL, Form 3L, Form 3B/Form 3B+, Form 3/Form 3+, and Form 2 printers. This release features an updated Scan to Model workflow in Dental Workspace, restored support for Windows 7, and various new print settings for Form 3L, Form 3BL, and Form 4L generation printers.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1nt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1nt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 QEMU 9.1.0 (x64) (EXE)
 
-> 
-> **More Info:** [https://wiki.qemu.org/ChangeLog/9.1<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ho539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ho539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://wiki.qemu.org/ChangeLog/9.1)
-> 
-> **Support Info:** [https://www.qemu.org/support/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9io539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9io539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.qemu.org/support/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jo539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jo539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/ba2986becbe2ac73ec288eca6eb83829272e201bfe82608864c48c3fa619b044)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ko539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ko539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/ba2986becbe2ac73ec288eca6eb83829272e201bfe82608864c48c3fa619b044)
-> 
+> **More Info:** [https://wiki.qemu.org/ChangeLog/9.1](https://wiki.qemu.org/ChangeLog/9.1)
+> **Support Info:** [https://www.qemu.org/support/](https://www.qemu.org/support/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/ba2986becbe2ac73ec288eca6eb83829272e201bfe82608864c48c3fa619b044)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/ba2986becbe2ac73ec288eca6eb83829272e201bfe82608864c48c3fa619b044)
 > ChangeLog/9.1 Removed features and incompatible changes Consult the 'Removed features' page for details of suggested replacement functionality. The Nios II target has been removed. The "scsi" property of virtio-blk devices has been removed. SCSI command passthrough had never been present on virtio-blk 1.0 devices, and is now removed from legacy devices as well. Use virtio-scsi instead.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1od39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1od39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 Salesforce CLI v2 2.65.8 (x64) (EXE)
 
-> 
-> **More Info:** [https://github.com/forcedotcom/cli/blob/main/releasenotes/README.md#2426-may-22-2024-stable<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hol39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hol39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://github.com/forcedotcom/cli/blob/main/releasenotes/README.md#2426-may-22-2024-stable)
-> 
-> **Support Info:** [https://developer.salesforce.com/docs<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9iol39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9iol39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://developer.salesforce.com/docs)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jol39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jol39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/ea5aa166054ed924a8ce88acd449e31e532ca81dbd324d876adfe12dab726212)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kol39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kol39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/ea5aa166054ed924a8ce88acd449e31e532ca81dbd324d876adfe12dab726212)
-> 
+> **More Info:** [https://github.com/forcedotcom/cli/blob/main/releasenotes/README.md#2426-may-22-2024-stable](https://github.com/forcedotcom/cli/blob/main/releasenotes/README.md#2426-may-22-2024-stable)
+> **Support Info:** [https://developer.salesforce.com/docs](https://developer.salesforce.com/docs)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/ea5aa166054ed924a8ce88acd449e31e532ca81dbd324d876adfe12dab726212)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/ea5aa166054ed924a8ce88acd449e31e532ca81dbd324d876adfe12dab726212)
 > 2.65.8 (November 6, 2024) [stable-rc] These changes are in the Salesforce CLI release candidate. We plan to include these changes in next week's official release. This list isn't final and is subject to change.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1ot39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1ot39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 SessionLimit Agent 2.0.13 (x64) (MSI)
 
-> 
-> **More Info:** [https://docs.sessionlimit.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hp539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hp539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.sessionlimit.com/)
-> 
-> **Support Info:** [https://docs.sessionlimit.com/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ip539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ip539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://docs.sessionlimit.com/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jp539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jp539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/6b321e40cb9805ccad47c808288ee2fbdb9c22594c1147004a39a5adf7517ab2)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kp539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kp539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/6b321e40cb9805ccad47c808288ee2fbdb9c22594c1147004a39a5adf7517ab2)
-> 
+> **More Info:** [https://docs.sessionlimit.com/](https://docs.sessionlimit.com/)
+> **Support Info:** [https://docs.sessionlimit.com/](https://docs.sessionlimit.com/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/6b321e40cb9805ccad47c808288ee2fbdb9c22594c1147004a39a5adf7517ab2)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/6b321e40cb9805ccad47c808288ee2fbdb9c22594c1147004a39a5adf7517ab2)
 > 2.0.13 - Fixed duplicate syslog message error. - 2FA policy post logoff process is now optional. - 2FA scenario is added for open sessions. - Offline agent scenario is fixed in multilogon. - If the mobile attribute field in the domain table is empty, default value is set to “mobile”. - Computer record deleted from the portal is reactivated after the first Heartbeat. - Agent performance is improved, - Domain information is added to be kept in the cache. - All mfa policies are kept in the cache. 2.0.12 -- Domain Controller and IP address reading problems have been resolved -- Language option has been added for Computer restriction and IP Address restriction options. -- Performance improvements have been made, -- Added More Secure Login capability with CredentialProvider support -- SMS was added along with Authenticator in 2FA,
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1pd39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1pd39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 TortoiseGit 2.17.0 (x64) (MSI)
 
-> 
-> **More Info:** [https://tortoisegit.org/docs/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hpl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hpl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://tortoisegit.org/docs/releasenotes/)
-> 
-> **Support Info:** [https://tortoisegit.org/support/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9ipl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9ipl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://tortoisegit.org/support/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jpl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jpl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/66ca43f34e1beefc50df67335d8cbf75f29ae5bad66e678fa673f40f53649961)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kpl39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kpl39bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/66ca43f34e1beefc50df67335d8cbf75f29ae5bad66e678fa673f40f53649961)
-> 
+> **More Info:** [https://tortoisegit.org/docs/releasenotes/](https://tortoisegit.org/docs/releasenotes/)
+> **Support Info:** [https://tortoisegit.org/support/](https://tortoisegit.org/support/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/66ca43f34e1beefc50df67335d8cbf75f29ae5bad66e678fa673f40f53649961)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/66ca43f34e1beefc50df67335d8cbf75f29ae5bad66e678fa673f40f53649961)
 > Release notes = Release 2.17.0.2 = Released: 2024-11-01 This is the last version that will work on Windows 7 and 8 (and possibly 8.1). The TortoiseGit 2.17.0.1 installer was missing statically linked x86 libraries for the x64 build.
 
 ### 
-<svg class="gb-icon self-center transition-colors text-transparent group-hover/hash:text-tint-subtle contrast-more:group-hover/hash:text-tint-strong size-4"><title>hashtag</title><defs><mask id="_R_1pt39bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/hashtag.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_1pt39bsnqj6iv5ubsnpfivb_)"></rect></svg>
+
 
 TortoiseGit 2.17.0 (x86) (MSI)
 
-> 
-> **More Info:** [https://tortoisegit.org/docs/releasenotes/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9hq539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9hq539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://tortoisegit.org/docs/releasenotes/)
-> 
-> **Support Info:** [https://tortoisegit.org/support/<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9iq539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9iq539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://tortoisegit.org/support/)
-> 
-> **VirusTotal:** [GoTo: VirusTotal<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9jq539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9jq539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://www.virustotal.com/gui/file/f90d42d5730befcd2680b5cd89c6037be1f3f8f5f459b33f83704883dd561b19)
-> 
-> **Kaspersky:** [GoTo: OpenTip<svg class="gb-icon ml-0.5 inline size-3 links-accent:text-tint-subtle"><title>arrow-up-right</title><defs><mask id="_R_9kq539bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/arrow-up-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_9kq539bsnqj6iv5ubsnpfivb_)"></rect></svg>](https://opentip.kaspersky.com/f90d42d5730befcd2680b5cd89c6037be1f3f8f5f459b33f83704883dd561b19)
-> 
+> **More Info:** [https://tortoisegit.org/docs/releasenotes/](https://tortoisegit.org/docs/releasenotes/)
+> **Support Info:** [https://tortoisegit.org/support/](https://tortoisegit.org/support/)
+> **VirusTotal:** [GoTo: VirusTotal](https://www.virustotal.com/gui/file/f90d42d5730befcd2680b5cd89c6037be1f3f8f5f459b33f83704883dd561b19)
+> **Kaspersky:** [GoTo: OpenTip](https://opentip.kaspersky.com/f90d42d5730befcd2680b5cd89c6037be1f3f8f5f459b33f83704883dd561b19)
 > Release notes = Release 2.17.0.2 = Released: 2024-11-01 This is the last version that will work on Windows 7 and 8 (and possibly 8.1). The TortoiseGit 2.17.0.1 installer was missing statically linked x86 libraries for the x64 build.
 
-[PreviousNovember 16 Catalog Update #20241116 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2024/november-16-catalog-update-20241116-easy2patch)[NextNovember 2 Catalog Update #20241102 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2024/november-2-catalog-update-20241102-easy2patch)
+[PreviousNovember 16 Catalog Update #20241116 - Easy2Patch](/catalog-posts-2024/november-16-catalog-update-20241116-easy2patch)[NextNovember 2 Catalog Update #20241102 - Easy2Patch](/catalog-posts-2024/november-2-catalog-update-20241102-easy2patch)
 Last updated <time data-visual-test="transparent" datetime="2024-11-11T14:38:50.118Z" data-state="closed">1 year ago</time>

@@ -1,14 +1,13 @@
-﻿---
+---
 layout: post
 title: "Supported Products"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/supported-products"
 ---
 
 **Easy2Patch** support **605** products of **360** individual manufacturers in total. We are updating **772** products with 32/64-bit and language options.
 
-![https://www.easy2patch.com/premium-trial](https://blog.easy2patch.com/~gitbook/image?url=https%3A%2F%2F48322287-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcdUOS05wepzb10XGcGgw%252Fuploads%252FmhVDsOkFLeBt9PtvNml6%252Fyatay%2520banner.png%3Falt%3Dmedia%26token%3D956325d8-da64-46ff-a457-5dddee8f9655&width=768&dpr=3&quality=100&sign=452daae7&sv=2)
+![https://www.easy2patch.com/premium-trial](https://easy2patch.com/~gitbook/image?url=https%3A%2F%2F48322287-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcdUOS05wepzb10XGcGgw%252Fuploads%252FmhVDsOkFLeBt9PtvNml6%252Fyatay%2520banner.png%3Falt%3Dmedia%26token%3D956325d8-da64-46ff-a457-5dddee8f9655&width=768&dpr=3&quality=100&sign=452daae7&sv=2)
 
 Vendor
 
@@ -1238,5 +1237,5 @@ Zoom Video CommunicationsZoom Workplace 6.6.11
 
 Zoom Video CommunicationsZoom Workplace 6.7.2
 
-[PreviousSecurity Ratings<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/weekly-statistics-for-2026/security-ratings)[NextSilent Install Parameters<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/silent-install-parameters)
+[PreviousSecurity Ratings](/weekly-statistics-for-2026/security-ratings)[NextSilent Install Parameters](/silent-install-parameters)
 Last updated <time data-visual-test="transparent" datetime="2026-04-04T02:48:12.477Z" data-state="closed">29 days ago</time>

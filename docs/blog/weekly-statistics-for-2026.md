@@ -1,9 +1,8 @@
-﻿---
+---
 layout: post
 title: "Weekly Statistics for 2026"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/weekly-statistics-for-2026"
 ---
 
 Week
@@ -142,5 +141,5 @@ December 28
 
 ***Total******772******991******53***
 
-[PreviousEasy2Patch Blog<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/)[NextSecurity Ratings<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/weekly-statistics-for-2026/security-ratings)
+[PreviousEasy2Patch Blog](/)[NextSecurity Ratings](/weekly-statistics-for-2026/security-ratings)
 Last updated <time data-visual-test="transparent" datetime="2026-05-03T08:34:20.868Z" data-state="closed">6 hours ago</time>

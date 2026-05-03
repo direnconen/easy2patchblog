@@ -1,9 +1,8 @@
 ﻿---
 layout: post
-title: "January 27 Catalog Update #20240127"
-date: 2026-05-03
+title: "27 January 2024 Catalog Update - Easy2Patch"
+date: 2024-01-27
 categories: [blog]
-source_url: "https://blog.easy2patch.com/catalog-posts-2024/january-27-catalog-update-20240127-easy2patch"
 ---
 
 Our catalog with **#20240127** (Catalog version **3.4.149** ) is available to our **Easy2Patch** customers.
@@ -82,5 +81,5 @@ WireGuardTailscale 1.58.2
 
 Zoom Video CommunicationsZoom Desktop Client 5.17.5
 
-[PreviousFebruary 3 Catalog Update #20240203 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2024/february-3-catalog-update-20240203-easy2patch)[NextJanuary 20 Catalog Update #20240120 - Easy2Patch<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/catalog-posts-2024/january-20-catalog-update-20240120-easy2patch)
+[PreviousFebruary 3 Catalog Update #20240203 - Easy2Patch](/catalog-posts-2024/february-3-catalog-update-20240203-easy2patch)[NextJanuary 20 Catalog Update #20240120 - Easy2Patch](/catalog-posts-2024/january-20-catalog-update-20240120-easy2patch)
 Last updated <time data-visual-test="transparent" datetime="2024-01-26T15:37:47.328Z" data-state="closed">2 years ago</time>

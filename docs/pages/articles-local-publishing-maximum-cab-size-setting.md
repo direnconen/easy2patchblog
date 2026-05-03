@@ -1,9 +1,8 @@
-﻿---
+---
 layout: post
 title: "Local Publishing Maximum Cab Size Setting"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/articles/local-publishing-maximum-cab-size-setting"
 ---
 
 There is a default limit for CAB files that can be published / created within WSUS Local Publishing. This limit is 384 MB. Therefore, updates larger than 384MB cannot be published over WSUS. However, this limit value may be changed and larger updates may be released. There are several ways to change this setting.
@@ -28,5 +27,5 @@ Within Easy2Patch settings there is a field to set the LocalPublishingMaxCabSize
 
 !
 
-[PreviousImportance of Updating 3rd Party Applications<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/articles/importance-of-updating-3rd-party-applications)[NextWhat should be considered to use 3rd Party software safely?<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/articles/what-should-be-considered-to-use-3rd-party-software-safely)
+[PreviousImportance of Updating 3rd Party Applications](/articles/importance-of-updating-3rd-party-applications)[NextWhat should be considered to use 3rd Party software safely?](/articles/what-should-be-considered-to-use-3rd-party-software-safely)
 Last updated <time data-visual-test="transparent" datetime="2023-05-07T18:22:22.000Z" data-state="closed">2 years ago</time>

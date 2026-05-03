@@ -1,9 +1,8 @@
-﻿---
+---
 layout: post
 title: "Weekly Statistics for 2025"
 date: 2026-05-03
 categories: [blog]
-source_url: "https://blog.easy2patch.com/article-page/weekly-statistics-for-2025"
 ---
 
 Week
@@ -146,5 +145,5 @@ December 29753454
 
 This week, **64** software updates are provided in the E2P catalog. We support **586** products of **355** individual manufacturers in total. We are updating **756** products with 32/64-bit and language options.
 
-[PreviousWeekly Statistics for 2024<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-left</title><defs><mask id="_R_jb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-left.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_jb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/article-page/weekly-statistics-for-2024)[NextSecurity Ratings<svg class="gb-icon hidden size-4 text-tint-subtle contrast-more:text-tint-strong group-hover:text-primary md:block"><title>chevron-right</title><defs><mask id="_R_lb9bsnqj6iv5ubsnpfivb_" style="mask-type:alpha"><image data-testid="mask-image" href="https://ka-p.fontawesome.com/releases/v7.2.0/svgs/regular/chevron-right.svg?v=2&token=a463935e93" width="100%" height="100%" preserveaspectratio="xMidYMid meet"></image></mask></defs><rect width="100%" height="100%" fill="currentColor" mask="url(#_R_lb9bsnqj6iv5ubsnpfivb_)"></rect></svg>](/article-page/weekly-statistics-for-2025/security-ratings)
+[PreviousWeekly Statistics for 2024](/article-page/weekly-statistics-for-2024)[NextSecurity Ratings](/article-page/weekly-statistics-for-2025/security-ratings)
 Last updated <time data-visual-test="transparent" datetime="2025-12-27T07:07:23.812Z" data-state="closed">4 months ago</time>

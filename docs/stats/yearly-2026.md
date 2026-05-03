@@ -9,35 +9,19 @@ nav_order: 2026
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **388** |
-| Fixes | 8 |
-| Updates | 362 |
-| New Packages | 18 |
-| Publishers | 200 |
-| Weeks Active | 18 |
+| Total Packages | **103** |
+| Fixes | 0 |
+| Updates | 94 |
+| New Packages | 9 |
+| Publishers | 50 |
+| Weeks Active | 2 |
 
 ---
 
 ## Weekly Activity
 
 ```
-W01  ▃  Fix:004  Upd:008  New:003  Total:0015
-W02  ▃  Fix:003  Upd:015  New:000  Total:0018
-W03  ▂  Fix:000  Upd:009  New:000  Total:0009
-W04  ▂  Fix:000  Upd:011  New:000  Total:0011
-W05  ▂  Fix:000  Upd:007  New:001  Total:0008
-W06  ▁  Fix:000  Upd:005  New:000  Total:0005
-W07  ▂  Fix:000  Upd:008  New:001  Total:0009
-W08  ▃  Fix:000  Upd:014  New:000  Total:0014
-W09  ▃  Fix:000  Upd:013  New:002  Total:0015
-W10  ▃  Fix:000  Upd:015  New:000  Total:0015
-W11  ▂  Fix:000  Upd:011  New:000  Total:0011
-W12  ▃  Fix:000  Upd:015  New:000  Total:0015
-W13  ▃  Fix:000  Upd:016  New:000  Total:0016
-W14  ▄  Fix:000  Upd:021  New:000  Total:0021
-W15  ▇  Fix:000  Upd:045  New:000  Total:0045
-W16  █  Fix:001  Upd:049  New:002  Total:0052
-W17  █  Fix:000  Upd:052  New:002  Total:0054
+W17  ▇  Fix:000  Upd:046  New:002  Total:0048
 W18  █  Fix:000  Upd:048  New:007  Total:0055
 ```
 
@@ -47,11 +31,8 @@ W18  █  Fix:000  Upd:048  New:007  Total:0055
 
 | Month | Packages | Bar |
 |-------|--------:|-----|
-| January | 60 | ███████░░░░░░░░░░░░░ |
-| February | 42 | █████░░░░░░░░░░░░░░░ |
-| March | 59 | ███████░░░░░░░░░░░░░ |
-| April | 172 | ████████████████████ |
-| May | 55 | ██████░░░░░░░░░░░░░░ |
+| April | 48 | █████████████████░░░ |
+| May | 55 | ████████████████████ |
 
 
 ---
@@ -60,16 +41,16 @@ W18  █  Fix:000  Upd:048  New:007  Total:0055
 
 | # | Publisher | Packages |
 |---|-----------|--------:|
-| 1 | Mozilla | 28 |
-| 2 | Microsoft | 26 |
-| 3 | Oracle | 8 |
-| 4 | JetBrains | 8 |
-| 5 | Amazon | 8 |
-| 6 | Altova | 8 |
-| 7 | Shining Light Productions | 8 |
-| 8 | Benthic Software | 7 |
-| 9 | Techsmith | 7 |
-| 10 | Google | 6 |
+| 1 | JetBrains | 8 |
+| 2 | Microsoft | 6 |
+| 3 | Mozilla | 4 |
+| 4 | Altova | 4 |
+| 5 | Amazon | 3 |
+| 6 | KLCP | 3 |
+| 7 | Cisco | 2 |
+| 8 | Power Software | 2 |
+| 9 | QNAP | 2 |
+| 10 | Tracker Software Products | 2 |
 
 
 ---

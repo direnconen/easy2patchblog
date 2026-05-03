@@ -18,7 +18,7 @@ permalink: /
 | 📦 **Supported Products** | 617 |
 | 🏢 **Manufacturers** | 362 |
 | 📅 **Last Update** | 03 May 2026 |
-| 🔄 **Weekly Average** | ~22 packages/week |
+| 🔄 **Weekly Average** | ~52 packages/week |
 
 ---
 
@@ -42,7 +42,7 @@ permalink: /
 
 | Year | Total Packages |
 |------|---------------:|
-| [2026](/stats/yearly-2026/) | 388 |
+| [2026](/stats/yearly-2026/) | 103 |
 
 
 ---

@@ -1,0 +1,24 @@
+title: Easy2Patch Catalog
+description: Third-party software update catalog for enterprise patch management
+baseurl: "/easy2patchblog"
+url: "https://direnconen.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - obj/
+  - bin/
+  - "*.csproj"
+  - "*.cs"
+  - Services/
+  - Models/
+  - Templates/
+  - Worker.cs
+  - Program.cs

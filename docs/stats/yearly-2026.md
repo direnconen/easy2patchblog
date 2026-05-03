@@ -9,11 +9,11 @@ nav_order: 2026
 
 | Metric | Value |
 |--------|------:|
-| Total Packages | **390** |
-| Fixes | 10 |
+| Total Packages | **388** |
+| Fixes | 8 |
 | Updates | 362 |
 | New Packages | 18 |
-| Publishers | 203 |
+| Publishers | 200 |
 | Weeks Active | 18 |
 
 ---
@@ -21,7 +21,7 @@ nav_order: 2026
 ## Weekly Activity
 
 ```
-W01  ▃  Fix:006  Upd:008  New:003  Total:0017
+W01  ▃  Fix:004  Upd:008  New:003  Total:0015
 W02  ▃  Fix:003  Upd:015  New:000  Total:0018
 W03  ▂  Fix:000  Upd:009  New:000  Total:0009
 W04  ▂  Fix:000  Upd:011  New:000  Total:0011
@@ -47,7 +47,7 @@ W18  █  Fix:000  Upd:048  New:007  Total:0055
 
 | Month | Packages | Bar |
 |-------|--------:|-----|
-| January | 62 | ███████░░░░░░░░░░░░░ |
+| January | 60 | ███████░░░░░░░░░░░░░ |
 | February | 42 | █████░░░░░░░░░░░░░░░ |
 | March | 59 | ███████░░░░░░░░░░░░░ |
 | April | 172 | ████████████████████ |
@@ -63,12 +63,12 @@ W18  █  Fix:000  Upd:048  New:007  Total:0055
 | 1 | Mozilla | 28 |
 | 2 | Microsoft | 26 |
 | 3 | Oracle | 8 |
-| 4 | Amazon | 8 |
-| 5 | Shining Light Productions | 8 |
+| 4 | JetBrains | 8 |
+| 5 | Amazon | 8 |
 | 6 | Altova | 8 |
-| 7 | Benthic Software | 7 |
-| 8 | Techsmith | 7 |
-| 9 | JetBrains | 7 |
+| 7 | Shining Light Productions | 8 |
+| 8 | Benthic Software | 7 |
+| 9 | Techsmith | 7 |
 | 10 | Google | 6 |
 
 

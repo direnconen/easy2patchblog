@@ -6,8 +6,8 @@ permalink: /
 
 # Easy2Patch Software Update Catalog
 
-> Tracking third-party software updates for enterprise patch management platforms.
-> Published every **Saturday** via automated catalog scans.
+> Tracking third-party software updates for enterprise patch management platforms (SCCM, WSUS, Intune, PDQ).
+> Catalog version **3.6.78** — Published every **Saturday**.
 
 ---
 
@@ -15,8 +15,8 @@ permalink: /
 
 | | |
 |--|--|
-| 📦 **Total Packages** | 490 |
-| 🏢 **Publishers** | 246 |
+| 📦 **Supported Products** | 617 |
+| 🏢 **Manufacturers** | 362 |
 | 📅 **Last Update** | 03 May 2026 |
 | 🔄 **Weekly Average** | ~22 packages/week |
 
@@ -28,36 +28,39 @@ permalink: /
 **[Week 18, 2026](/catalogs/2026/2026-05-02-week-18/)**
 — 02 May 2026
 
-- 🔧 Fixes: **0**
-- 🔄 Updates: **48**
-- ✨ New: **7**
+| Category | Count |
+|---|--:|
+| 🔧 Fixes | 0 |
+| 🔄 Updates | 48 |
+| ✨ New Packages | 7 |
+| **Total** | **55** |
 
 
 ---
 
-## 2026 at a Glance
+## Yearly Summary
 
 | Year | Total Packages |
 |------|---------------:|
-| [2026](/stats/2026/index) | 390 |
+| [2026](/stats/yearly-2026/) | 388 |
 
 
 ---
 
-## Top Publishers
+## Top Manufacturers
 
-| Publisher | Packages |
-|-----------|--------:|
-| Microsoft | 29 |
-| Mozilla | 20 |
-| Amazon | 12 |
-| OpenJS | 12 |
-| JetBrains | 10 |
-| Oracle | 10 |
-| SyncRO Soft | 9 |
-| Benthic Software | 8 |
-| eBilge | 8 |
-| Apple | 7 |
+| Manufacturer | Packages |
+|--------------|--------:|
+| Microsoft | 58 |
+| Mozilla | 44 |
+| JetBrains | 24 |
+| Oracle | 15 |
+| SyncRO Soft | 15 |
+| Amazon | 14 |
+| OpenJS | 13 |
+| Techsmith | 13 |
+| Altova | 12 |
+| Azul | 10 |
 
 
 ---
